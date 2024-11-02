@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "name": "devanshi",
+      "branch": "CSE",
+      "email": "devanshibamaliya123@gmail.com",
+      "contact": 7987401142,
+      "id": "5eeb"
+    },
+    {
+      "name": "devanshi",
+      "branch": "CSE",
+      "email": "devanshibamaliya123@gmail.com",
+      "contact": 7987401142,
+      "id": "f097"
+    },
+    {
+      "name": "anshika",
+      "branch": "CSE",
+      "email": "devanshibamaliya123@gmail.com",
+      "contact": 7987401142,
+      "id": "9d30"
+    },
+    {
+      "id": "ed40",
+      "name": "Devanshi Bamaliya",
+      "branch": "cse",
+      "email": "devanshibamaliya123@gmail.com",
+      "contact": "7987401142"
+    },
+    {
+      "id": "c6b0",
+      "name": "damini",
+      "branch": "it",
+      "email": "damini12@gmail.com",
+      "contact": "789854632"
+    },
+    {
+      "id": "c16b",
+      "name": "Devanshi Bamaliya",
+      "branch": "it",
+      "email": "dev@gmail.com",
+      "contact": "78965412"
+    },
+    {
+      "id": "4edf",
+      "name": "ankita",
+      "branch": "civil",
+      "email": "ankita@gmail.com",
+      "contact": "78995421"
+    },
+    {
+      "id": "4202",
+      "name": "anshuka",
+      "branch": "it",
+      "email": "dev@gmail.com",
+      "contact": "12567890799"
+    },
+    {
+      "id": "8f6d",
+      "name": "mahima",
+      "branch": "aiml",
+      "email": "mahima@gmail.com",
+      "contact": "12567890799"
+    }
+  ]
+}
